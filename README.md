@@ -1,5 +1,3 @@
-Readme:
-
 Content:
 
 The following trained VNN models are included.
@@ -28,4 +26,4 @@ The following trained VNN models are included.
      
 4. delta_age_code.py: This file contains the code for brain age evaluation from VNN outputs after age-bias correction. 
 
-5. neurips_residuals_oasis.zip: Due to space limitations, this file provides the regional residuals for the OASIS-3 dataset evaluated from 50 VNN models among the 100 that were trained on HC group. The regional residuals for all 100 VNN models are available online at https://github.com/sihags/VNN_Brain_Age.
+5. neurips_residuals_oasis.zip: The regional residuals for OASIS-3 dataset derived for all 100 VNN models.
