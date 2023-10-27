@@ -1,6 +1,5 @@
 Content:
 
-The following trained VNN models are included.
 1. OASIS3_VNN_NeurIPS: This folder includes the 100 VNNs that were trained on HC group in OASIS-3 dataset.
 
 
