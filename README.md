@@ -1,3 +1,5 @@
+**Supplementary material for Explainable Brain Age Prediction using coVariance Neural Networks**
+
 Content:
 
 1. OASIS3_VNN_NeurIPS: This folder includes the 100 VNNs that were trained on HC group in OASIS-3 dataset.
