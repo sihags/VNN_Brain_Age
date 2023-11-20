@@ -1,4 +1,4 @@
-**Supplementary material for Explainable Brain Age Prediction using coVariance Neural Networks**
+**Supplementary material for Explainable Brain Age Prediction using coVariance Neural Networks (NeurIPS 2023)**
 
 Content:
 
